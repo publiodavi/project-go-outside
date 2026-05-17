@@ -22,6 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Ignorando os videos temporariamente devido ao limite de 100MB do GitHub
-public/videos/
