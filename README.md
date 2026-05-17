@@ -32,6 +32,8 @@ O Go Outside é uma aplicação meteorológica desenvolvida com foco em fidelida
 - **CSS3:** Estilização modular e customizada, sem dependência de frameworks externos.
 
 ## Autor
-Davi de Souza Públio Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC.
 
-    Acesse meu GitHub
+**Davi de Souza Públio**
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC.
+
+- [Acesse meu GitHub](https://github.com/publiodavi)
