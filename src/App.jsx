@@ -108,19 +108,19 @@ function App() {
   const classeFundo = definirClasseDoClima(clima);
 
   const BackgroundVideo = {
-    'sol-calor': '/videos/sol-calor.mp4',
-    'sol-agradavel': '/videos/sol-agradavel.mp4',
-    'noite-limpa': '/videos/noite-limpa.mp4',
-    'nublado-dia': '/videos/nublado-dia.mp4',
-    'nublado-noite': '/videos/nublado-noite.mp4',
-    'chuva-dia': '/videos/chuva-dia.mp4',   
-    'chuva-noite': '/videos/chuva-noite.mp4', 
-    'tempestade': '/videos/tempestade.mp4',
-    'neve-dia': '/videos/neve-dia.mp4',
-    'neve-noite': '/videos/neve-noite.mp4',
-    'neve-extrema': '/videos/neve-extrema.mp4',
-    'nevoa-dia': '/videos/nevoa-dia.mp4',
-    'nevoa-noite': '/videos/nevoa-noite.mp4',
+    'sol-calor': 'videos/sol-calor.mp4',
+    'sol-agradavel': 'videos/sol-agradavel.mp4',
+    'noite-limpa': 'videos/noite-limpa.mp4',
+    'nublado-dia': 'videos/nublado-dia.mp4',
+    'nublado-noite': 'videos/nublado-noite.mp4',
+    'chuva-dia': 'videos/chuva-dia.mp4',   
+    'chuva-noite': 'videos/chuva-noite.mp4', 
+    'tempestade': 'videos/tempestade.mp4',
+    'neve-dia': 'videos/neve-dia.mp4',
+    'neve-noite': 'videos/neve-noite.mp4',
+    'neve-extrema': 'videos/neve-extrema.mp4',
+    'nevoa-dia': 'videos/nevoa-dia.mp4',
+    'nevoa-noite': 'videos/nevoa-noite.mp4',
   };
 
   return (
