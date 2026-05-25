@@ -18,6 +18,7 @@ Acesse a aplicação em execução: [https://publiodavi.github.io/project-go-out
 
 ## Sobre o Projeto
 O Go Outside é uma aplicação meteorológica desenvolvida com foco em fidelidade visual, experiência do usuário (UX) e consumo avançado de APIs assíncronas. O projeto foi estruturado para resolver desafios técnicos de desenvolvimento front-end, como otimização de requisições, tratamento de fusos horários dinâmicos e manipulação de estado, consolidando conhecimentos práticos voltados para o curso de Análise e Desenvolvimento de Sistemas da FATEC.
+No fim é somente um consultor meteorológico com uma carinha bonita =D
 
 ## Principais Funcionalidades
 - **Mídia Dinâmica por Clima:** Algoritmo que mapeia as 15 condições climáticas oficiais da API (Current Weather) e renderiza um vídeo de fundo correspondente à atmosfera da região pesquisada, incluindo variações de dia, noite e fenômenos de baixa visibilidade.
